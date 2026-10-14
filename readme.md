@@ -87,9 +87,6 @@ You can easily tweak the inference behavior by modifying `src/model.rs`:
 
 This project is open source and contributions are welcome! If you find a bug or want to add a feature (like file-picker dialogs, multi-model support, or different prompt templates), feel free to open an Issue or Pull Request.
 
-> 💼 **Need a custom local AI tool?**  
-> I specialize in building high-performance, low-overhead Rust applications for local AI and desktop tooling. If you need a custom feature built or a similar tool tailored to your workflow, feel free to reach out via [Your Email / Twitter / Telegram].
-
 ---
 
 ## 📄 License
